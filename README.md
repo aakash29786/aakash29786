@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aakash29786
-- 👀 I’m interested in Machine Learning, Data Science, Python Programming and deveoping ML driven products
+- 👀 I’m interested in Machine Learning, Data Science, Python Programming and developing ML driven products
 - 🌱 I’m currently learning Computer Vision 
 - 💞️ I’m looking to collaborate on Deep Learning projects
 - 📫 How to reach me aakash.sinha@sjmsom.in
